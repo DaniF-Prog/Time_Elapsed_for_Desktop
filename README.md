@@ -11,3 +11,5 @@ two times in the format of hours and then the additional minutes.
 TimeElapsed.c is the original source code
 
 TimeElapsed.sh is the linux version which should be run in the terminal
+
+TimeElapsed32.exe is the 32bit windows version
