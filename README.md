@@ -7,4 +7,7 @@ the time elapsed between 11:32AM and 4:01PM the starting hour would be 11, the s
 would be 16, and the ending minute would be 1 (01 would work too though). The program will then time that elapsed between these
 two times in the format of hours and then the additional minutes. 
 
-If you are using linux download TimeElapsed.sh and run in the terminal. The exe file for windows will be available shortly.
+
+TimeElapsed.c is the original source code
+
+TimeElapsed.sh is the linux version which should be run in the terminal
