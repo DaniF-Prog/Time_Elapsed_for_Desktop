@@ -12,4 +12,4 @@ TimeElapsed.c is the original source code
 
 TimeElapsed.sh is the linux version which should be run in the terminal
 
-TimeElapsed32.exe is the 32bit windows version that runs in a command prompt window
+TimeElapsed32.exe is the 32bit windows version that runs in a command prompt window and is compatible with windows 10
